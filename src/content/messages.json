@@ -1,0 +1,42 @@
+{
+  "autodisciplina": {
+    "intro": "La autodisciplina en ingeniería de software es la capacidad de mantener estándares elevados de código, pruebas y arquitectura incluso cuando existe la tentación de tomar atajos rápidos. Un buen desarrollador automatiza sus buenas prácticas y respeta sus propios procesos.",
+    "checkpoint_25": "¡Excelente inicio! Recuerda: la constancia diaria en pequeñas mejoras de código supera cualquier maratón de refactorización de última hora.",
+    "checkpoint_50_testimonio": "NPC Tech Lead: 'En nuestro equipo, la diferencia entre entregar a tiempo sin errores y vivir apagando incendios fue adoptar la disciplina de escribir pruebas unitarias antes de enviar cualquier Pull Request.'",
+    "checkpoint_75_consejo": "Consejo práctico: Establece un checklist personal antes de solicitar un Code Review: pasa los linters, ejecuta los tests locales y revisa tus propios diffs.",
+    "final_bajo_desempeno": "Saltarse pasos o apurar la ejecución provocó bloqueos en el camino. No te frustres: la autodisciplina es un músculo que se entrena repitiendo la rutina correcta. ¡Vuelve a intentarlo con paciencia!",
+    "final_alto_desempeno": "¡Demostraste una disciplina impecable! Mantener la calidad en cada paso garantiza software sostenible y libre de deuda técnica a largo plazo. 'La calidad no es un acto, es un hábito.'"
+  },
+  "perseverancia": {
+    "intro": "La perseverancia es la resiliencia mental para enfrentar errores impredecibles, bugs complejos y bloqueos técnicos sin rendirse. En desarrollo, fallar es solo el primer paso hacia la solución correcta.",
+    "checkpoint_25": "¡Sigue adelante! Cada bug inesperado te enseña cómo NO funciona el sistema y te acerca más a la causa raíz.",
+    "checkpoint_50_testimonio": "NPC Senior Developer: 'Estuve tres días persiguiendo un memory leak en producción que parecía aleatorio. La clave no fue ser un genio, sino mantener la calma y aislar el problema hipótesis por hipótesis.'",
+    "checkpoint_75_consejo": "Consejo práctico: Cuando lleves más de una hora atrapado en el mismo error, haz una pausa de 10 minutos (técnica Pomodoro) o explica el problema en voz alta (Rubber Duck Debugging).",
+    "final_bajo_desempeno": "El camino estuvo lleno de caídas y la frustración intentó tomar el control. Recuerda que caer es parte natural del aprendizaje. ¡Analiza tus pasos y reinténtalo!",
+    "final_alto_desempeno": "¡Gran tenacidad! Superaste todos los obstáculos con una perseverancia admirable. 'El verdadero senior no es el que nunca falla, sino el que sabe cómo levantarse y resolver el fallo.'"
+  },
+  "asertividad": {
+    "intro": "La asertividad es la habilidad de expresar ideas, límites y desacuerdos técnicos de manera clara, respetuosa y fundamentada. Saber decir 'no' a estimaciones irrealistas evita el burnout del equipo.",
+    "checkpoint_25": "¡Buen avance! Comunicar tus necesidades técnicas con claridad ayuda a alinear las expectativas entre producto y desarrollo.",
+    "checkpoint_50_testimonio": "NPC Product Owner: 'Valoré muchísimo cuando nuestro backend dev nos explicó asertivamente los riesgos de lanzar sin migrar la base de datos. Nos evitó una caída catastrófica de clientes.'",
+    "checkpoint_75_consejo": "Consejo práctico: Ante una crítica en un Code Review, responde enfocándote en el código y no a nivel personal. Usa frases como: '¿Qué opinas si lo refactorizamos así para mejorar el rendimiento?'",
+    "final_bajo_desempeno": "Las respuestas evasivas o la falta de claridad en los diálogos crearon tensión en el equipo. La asertividad requiere empatía y argumentos sólidos. ¡Inténtalo de nuevo!",
+    "final_alto_desempeno": "¡Comunicación excelente! Lograste defender la calidad técnica y construir acuerdos sólidos con tus compañeros de equipo. 'La claridad en las conversaciones evita la confusión en el código.'"
+  },
+  "creatividad_innovacion": {
+    "intro": "La creatividad en el desarrollo de software no es solo diseño visual, sino la habilidad de encontrar soluciones elegantes, eficientes y fuera de lo convencional para problemas técnicos complejos.",
+    "checkpoint_25": "¡Explora sin miedo! A veces la ruta más obvia no es la más eficiente. Experimentar con nuevas perspectivas abre grandes soluciones.",
+    "checkpoint_50_testimonio": "NPC Frontend Architect: 'Nuestro tiempo de carga bajó un 70% porque un junior sugirió usar virtualización de listas en lugar de seguir optimizando las consultas tradicionales. Pensó fuera de la caja.'",
+    "checkpoint_75_consejo": "Consejo práctico: Mantén la curiosidad activa explorando herramientas de otros ecosistemas o leyendo arquitectura de proyectos open source. La innovación surge al conectar conceptos distintos.",
+    "final_bajo_desempeno": "Te quedaste atrapado en soluciones rígidas o intentaste forzar el camino difícil. La innovación requiere probar hipótesis alternativas. ¡Vuelve a explorar con mente abierta!",
+    "final_alto_desempeno": "¡Solución brillante e innovadora! Encontraste rutas alternativas y creaste valor superando las expectativas. 'La creatividad es la inteligencia divirtiéndose programando.'"
+  },
+  "capacidad_planificacion": {
+    "intro": "La capacidad de planificación consiste en analizar requerimientos, prever dependencias y descomponer problemas grandes en tareas pequeñas y medibles antes de escribir la primera línea de código.",
+    "checkpoint_25": "¡Excelente visión previa! Unos minutos dedicados al diseño de arquitectura ahorran días enteros de reescritura de código.",
+    "checkpoint_50_testimonio": "NPC Scrum Master: 'Cuando el equipo comenzó a mapear las dependencias de APIs en la etapa de refinamiento, los bloqueos en mitad de los sprints se redujeron a cero.'",
+    "checkpoint_75_consejo": "Consejo práctico: Aplica el principio DIVIDE Y VENCERÁS: desglosa cualquier historia de usuario compleja en sub-tareas de máximo 4 horas de duración.",
+    "final_bajo_desempeno": "Avanzar sin una estrategia previa generó improvisación y consumo excesivo de recursos. Planificar no es perder tiempo, es trazar la ruta más segura. ¡Inténtalo de nuevo preparando tu plan!",
+    "final_alto_desempeno": "¡Ejecución estratégica ejemplar! Mapeaste el terreno, administraste los recursos con precisión y alcanzaste la meta sin desvíos. 'Planificar es traer el futuro al presente para actuar sobre él hoy.'"
+  }
+}
