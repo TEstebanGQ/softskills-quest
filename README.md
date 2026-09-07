@@ -142,3 +142,12 @@ Para agregar una 6ª habilidad (por ejemplo, `liderazgo_tecnico`):
 
 4. **Instanciar en AppController**:
    En `src/main.js`, añade la opción en el `switch(skillKey)` para cargar la nueva clase.
+
+---
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/TEstebanGQ/TEstebanGQ/main/assets/logo-tegq.jpg" width="80" alt="TEGQ Brand Logo" />
+  <br/>
+  <sub><b>© Tomas Esteban González Quintero — TEGQ</b></sub>
+</div>
